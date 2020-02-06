@@ -13,11 +13,6 @@
             <artifactId>testartifact1</artifactId>
             <version>1.5-SNAPSHOT</version>
         </dependency>
-        <!--<dependency>
-            <groupId>io.jenkins.updatebot</groupId>
-            <artifactId>updatebot</artifactId>
-            <version>1.2-SNAPSHOT</version>
-        </dependency>-->
     </dependencies>
 
 
