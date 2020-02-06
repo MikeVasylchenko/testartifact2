@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
-            <groupId>org.mikevasylchenko</groupId>
+            <groupId>MikeVasylchenko</groupId>
             <artifactId>testartifact1</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
