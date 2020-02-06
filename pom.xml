@@ -11,7 +11,7 @@
         <dependency>
             <groupId>MikeVasylchenko</groupId>
             <artifactId>testartifact1</artifactId>
-            <version>1.7-SNAPSHOT</version>
+            <version>1.8-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
