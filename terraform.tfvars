@@ -1,1 +1,1 @@
-parameter1=value1
+autoscaling-solr-group-image-id=111111111111
