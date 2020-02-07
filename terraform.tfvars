@@ -1,3 +1,3 @@
 bla bla
-autoscaling-solr-group-image-id=111111111111
+autoscaling-solr-group-image-id=gggggg
 bla bla bla
